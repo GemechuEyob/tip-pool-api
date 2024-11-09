@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+        "donjayamanne.git-extension-pack",
+        "esbenp.prettier-vscode",
+        "tamasfe.even-better-toml",
+        "charliermarsh.ruff",
+        "franneck94.vscode-python-config"
+    ]
+}
